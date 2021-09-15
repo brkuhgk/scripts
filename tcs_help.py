@@ -19,7 +19,7 @@ def tcs_help_desk():
 
 	showing "Sorry for the inconvenience Note : You cannot launch this assessment now since you are trying to launch beyond the start time permitted."
 
-	My Details: KARTHIK BODDU DT20218045512 8500413877 krk0241@gmail.com
+	My Details: xxxxxx xxxxx xxxxxxx xxxxxxxxx
 
 	"""
 
