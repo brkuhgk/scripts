@@ -1,2 +1,2 @@
 # scripts
-automate the routine stuff 
+- Automate the routine stuff 
